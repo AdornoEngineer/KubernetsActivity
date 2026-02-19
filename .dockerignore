@@ -1,0 +1,5 @@
+.git # Exclude the Git repository history
+logs/ # Exclude the logs directory
+*.md # Exclude a specifc Markdown file
+
+
